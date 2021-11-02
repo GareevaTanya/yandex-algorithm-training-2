@@ -1,5 +1,6 @@
 <a href="https://yandex.ru/yaintern/algorithm-training#schedule">Тренировки по алгоритмам 2.0 от Яндекса (сентябрь 2021)</a>
 
+Решение задач **дивизиона B**
 
 Темы:
 
