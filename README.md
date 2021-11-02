@@ -2,7 +2,7 @@
 
 Решение задач **дивизиона B**
 
-Темы:
+
 
 <h2><a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex1">1. Сложность, тестирование, особые случаи </a></h2>
 
