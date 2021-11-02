@@ -4,17 +4,17 @@
 
 Темы:
 
-<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2/tree/main/Ex1">1. Сложность, тестирование, особые случаи </a>
+<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex1">1. Сложность, тестирование, особые случаи </a>
 
-<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2/tree/main/Ex1/A">A. Interactor </a>
+<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex1/A">A. Interactor </a>
 
-<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2/tree/main/Ex1/B">B. Кольцевая линия метро</a>
+<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex1/B">B. Кольцевая линия метро</a>
   
-<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2/tree/main/Ex1/C">C. Даты</a>
+<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex1/C">C. Даты</a>
   
-<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2/tree/main/Ex1/D">D. Строительство школы</a>
+<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex1/D">D. Строительство школы</a>
   
-<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2/tree/main/Ex1/E">E. Точка и треугольник</a>
+<a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex1/E">E. Точка и треугольник</a>
 
 2. Линейный поиск
 4. Множества
