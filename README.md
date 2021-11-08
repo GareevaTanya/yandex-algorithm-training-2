@@ -10,9 +10,7 @@
     </a>
   </h2>
   <ol type="A">
-    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex1/A">
-      <li>Interactor</li>
-    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex1/A"><li>Interactor</li></a>
     <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex1/B">
       <li>Кольцевая линия метро</li>
     </a>
