@@ -71,10 +71,27 @@
     </a>
   </ol>
   <h2>
-    <! -- <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex4">
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex4">
       <li>Словари и сортировка подсчётом</li>
     </a>
   </h2>
+  <ol type="A">
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex4/A">
+      <li>Толя-Карп и новый набор структур, часть 2</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex4/B">
+      <li>Выборы в США</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex4/C">
+      <li>Частотный анализ</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex4/D">
+       <li>Выборы Государственной Думы</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex4/E">
+      <li>Форум</li>
+    </a>
+  </ol>
   <h2>
     <! -- <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex5">
       <li>Префиксные суммы и два указателя</li>
