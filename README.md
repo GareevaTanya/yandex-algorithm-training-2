@@ -93,10 +93,27 @@
     </a>
   </ol>
   <h2>
-    <! -- <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex5">
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex5">
       <li>Префиксные суммы и два указателя</li>
     </a>
   </h2>
+  <ol type="A">
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex5/A">
+      <li>Префиксные суммы</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex5/B">
+      <li>Максимальная сумма</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex5/C">
+      <li>Каждому по компьютеру</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex5/D">
+       <li>Правильная, круглая, скобочная</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex5/E">
+      <li>Сумма трёх</li>
+    </a>
+  </ol>
   <h2>
     <! -- <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex6">
       <li>Бинарный поиск</li>
