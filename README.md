@@ -115,10 +115,27 @@
     </a>
   </ol>
   <h2>
-    <! -- <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex6">
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex6">
       <li>Бинарный поиск</li>
     </a>
   </h2>
+  <ol type="A">
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex6/A">
+      <li>Быстрый поиск в массиве</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex6/B">
+      <li>Номер левого и правого вхождения</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex6/C">
+      <li>Корень кубического уравнения</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex6/D">
+       <li>Вырубка леса</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex6/E">
+      <li>Покрытие K отрезками</li>
+    </a>
+  </ol>
   <h2>
     <! -- <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex7">
       <li>Сортировка событий</li>
