@@ -137,10 +137,27 @@
     </a>
   </ol>
   <h2>
-    <! -- <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex7">
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex7">
       <li>Сортировка событий</li>
     </a>
   </h2>
+  <ol type="A">
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex7/A">
+      <li>Закраска прямой</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex7/B">
+      <li>Таможня</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex7/C">
+      <li>Минимальное покрытие</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex7/D">
+       <li>Наполненность котятами</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex7/E">
+      <li>Полярные прямоугольники</li>
+    </a>
+  </ol>
   <h2>
     <! -- <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex8">
       <li>Деревья</li>
