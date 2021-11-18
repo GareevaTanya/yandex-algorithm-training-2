@@ -159,8 +159,25 @@
     </a>
   </ol>
   <h2>
-    <! -- <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex8">
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex8">
       <li>Деревья</li>
     </a>
-  </h2> 
+  </h2>
+  <ol type="A">
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex8/A">
+      <li>Бинарное дерево (вставка, поиск, обход)</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex8/B">
+      <li>Родословная: предки и потомки</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex8/C">
+      <li>Родословная: LCA</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex8/D">
+       <li>Бусинки</li>
+    </a>
+    <a href="https://github.com/GareevaTanya/yandex-algorithm-training-2B/tree/main/Ex8/E">
+      <li>Дерево Хаффмана</li>
+    </a>
+  </ol>
 </ol>
